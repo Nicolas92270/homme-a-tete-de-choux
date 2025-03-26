@@ -1,0 +1,1 @@
+console.log('Bienvenue sur Homme à Tête de Choux !');
